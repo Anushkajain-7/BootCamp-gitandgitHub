@@ -1,2 +1,2 @@
-# Learning 
-This is my local repo
+# Practice
+This is my learning and practicing repo on git and gitHub
